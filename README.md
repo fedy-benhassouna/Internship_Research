@@ -7,9 +7,9 @@ The research paper ,"Forestry digital twin with machine learning in Landsat 7 da
 - The paper describes a method to preprocess the large-scale Landsat 7 remote sensing images by slicing them into smaller chunks. This allows the machine learning model to handle the high-resolution data more effectively.
 - We can adapt this chunking algorithm to your own forest imagery data, ensuring that the model can process the entire area of interest.
 - Additionally, the paper mentions applying normalization techniques to the image data, which can help improve the model's robustness.
-![plot](.C:\Users\Fedy1\Downloads\image-removebg-preview (14).png)
+
 ### 2. Model Architecture
-- The paper proposes an LSTM-based model for predicting future forest images from historical data. This architecture can be adapted to your task of detecting and identifying trees, as well as estimating their biomass.
+- The paper proposes an LSTM-based model for predicting future forest images from historical data. This architecture can be adapted to the  task of detecting and identifying trees, as well as estimating their biomass.
 - The model consists of three main components:
   1. **Feature Extraction Network**: A convolutional neural network that downscales the input images to extract relevant features.
   2. **LSTM Network**: A long short-term memory (LSTM) network that captures the temporal dependencies in the image sequence.
