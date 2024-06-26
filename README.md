@@ -18,11 +18,16 @@ The research paper ,"Forestry digital twin with machine learning in Landsat 7 da
   3. **Generator Network**: A generative network that produces the predicted forest images based on the features extracted by the LSTM.
 - We can use this model as a starting point and modify it to suit your specific requirements, such as adding tree detection and identification capabilities, as well as biomass estimation.
 
+![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/ee78b1bd-16a6-4126-9a06-d4972a072351)
+
 
 ### 3. Training and Evaluation
 - The paper provides an algorithm for training the model, which involves jointly optimizing the feature extraction, LSTM, and generator components.
 - We can adapt this training procedure to your own dataset and task, ensuring that the model learns to accurately detect and identify trees, as well as estimate their biomass.
 - For evaluation, the paper uses the Normalized Root Mean Squared Error (NRMSE) metric to assess the similarity between the predicted and actual forest images. We can consider using this or other relevant metrics to evaluate the performance of our model.
+
+  ![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/d49e89f5-3d57-47de-b58b-7734987aba2e)
+
 
 ### 4. Handling Challenges
 - The paper discusses some challenges, such as dealing with cloud cover and changes in the forest that are not reflected in the historical data.
