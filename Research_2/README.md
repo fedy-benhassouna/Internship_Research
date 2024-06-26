@@ -7,12 +7,12 @@ The paper  "Forest digital twin- A new tool for forest management practices base
 - Absence of virtual-real interaction synchronization
 - Focus on one-way forest management practice visualization
 
-###1. Study Area and Data Collection:
+### 1. Study Area and Data Collection:
 - Two study areas: Huangfengqiao Forest Farm (Hunan Province) and Shanxia Experimental Forest Farm (Jiangxi Province), China
 - Data collected includes individual tree attributes (coordinates, age, DBH, height, crown width, under living branch height)
 - Texture information (1366 photos) of bark, branches, leaves, and surrounding environment
 
-###2. Methodology:
+### 2. Methodology:
 #### 2.1 Neighborhood Indices:
 The paper discusses various stand spatial structure indices:
 - Uniform angle index
