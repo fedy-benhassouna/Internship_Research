@@ -1,4 +1,4 @@
-# Internship_Research
+# Internship_Research1
 ## Developing a Computer Vision Model for Forest Analysis
 
 The research paper ,"Forestry digital twin with machine learning in Landsat 7 data", outlines a promising approach to developing a computer vision model for forest analysis using remote sensing data. Here's how we can leverage the insights from this paper:
