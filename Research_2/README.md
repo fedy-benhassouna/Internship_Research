@@ -28,16 +28,22 @@ These indices are used to characterize the spatial distribution, advantage degre
 - Introduces a comprehensive spatial structure grade index (FCGSS)
 - Uses Richards growth equation as the basic model
 - Incorporates Bayesian method and Particle Swarm Optimization (PSO) for parameter estimation
+  ![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/bb43cfbe-8587-4e44-bb4a-8684fd566ac8)
+
 
 #### 2.3 Forest Digital Twin Construction:
 - Utilizes Unreal Engine 4 for visualization
 - Integrates tree model database, 3D terrain, and dynamic interaction
 - Implements virtual-real synchronization and decision-making feedback
 - Describes the process of thinning simulation and harvested tree selection
+  ![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/d1174458-616e-41cf-8f05-26f06cd02a34)
+
 
 #### 2.4 Evaluation Methods:
 - Virtual reality representativeness tests with human assessors
 - Evaluation metrics for growth models (MAPE, R², Accuracy)
+  ![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/62d80915-1683-48fc-81e5-92d0f270a39f)
+
 
 ### 3. Results:
 #### 3.1 Forest Digital Twin Representativeness:
@@ -52,6 +58,7 @@ These indices are used to characterize the spatial distribution, advantage degre
 - Compares thinning approaches: human assessor (ASS), forest digital twin (FDT), and their interaction (ASS-FDT)
 - ASS-FDT interaction shows superior performance in optimizing stand spatial structure
 - The multi-dimensional stand spatial structure index (F-index) increased by 22.82% after ASS-FDT thinning
+![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/217b108c-e92a-468e-90ff-5efa940a111b)
 
 ### 4. Discussion:
 #### 4.1 Utilization of Forest Digital Twin:
@@ -63,8 +70,10 @@ These indices are used to characterize the spatial distribution, advantage degre
 - Emphasizes the potential of forest digital twins in resource monitoring, analysis, and natural scene reproduction
 - Discusses the frequency of data updates based on growth stages and other factors
 - Proposes key design principles for future, more complex forest digital twins
+![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/ee8bc58f-7ad5-4bfd-bd73-a9f7c3d746d4)
 
 ### 5. Conclusion:
 The paper concludes that the proposed forest digital twin can effectively characterize real forest structures, predict tree growth with high accuracy, and optimize stand spatial structure through interactive thinning simulations. It acknowledges limitations and suggests future research directions, including integration of more ecological factors.
+![image](https://github.com/fedy-culer/Internship_Research/assets/151845761/c5d063e8-5e01-4d10-bec6-519b43f41fa2)
 
 This research provides a comprehensive framework for developing forest digital twins, combining various aspects of forestry, geospatial technology, and computer science. It offers valuable insights for your computer vision project, especially in areas of tree detection, attribute estimation, and species identification from imagery.
