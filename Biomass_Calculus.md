@@ -1,6 +1,6 @@
 # Biomass Calculation for Dry Forests in Tunisia
 
-                                                   ![image](https://github.com/user-attachments/assets/c10b0b64-3e54-4042-9767-98b56f09d08c)
+  ![image](https://github.com/user-attachments/assets/c10b0b64-3e54-4042-9767-98b56f09d08c)
 
 To calculate biomass for a forest in Tunisia using the allometric equations from the table n° 1, we'll need to follow these steps:
 
