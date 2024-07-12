@@ -1,9 +1,8 @@
 # Biomass Calculation for Dry Forests in Tunisia
 
+   ![image](https://github.com/user-attachments/assets/c10b0b64-3e54-4042-9767-98b56f09d08c)
+
 To calculate biomass for a forest in Tunisia using the allometric equations from the table n° 1, we'll need to follow these steps:
-
-![Table 1 ](![image](https://github.com/user-attachments/assets/c10b0b64-3e54-4042-9767-98b56f09d08c))
-
 
 ## 1. Identify the Type of Forest
 Determine the type of vegetation present in the forest in Tunisia (e.g., dry forest, humid forest, tropical forest, etc.). This will help you choose the appropriate allometric equation.
