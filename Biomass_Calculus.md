@@ -9,11 +9,11 @@ Determine the type of vegetation present in the forest in Tunisia (e.g., dry for
 
 ## 2. Collect Data
 Gather the necessary measurements for the trees in the forest. These typically include:
-- \( \text{DBH} \): Diameter at Breast Height (cm)
-- \( H \): Tree height (m)
-- \( \rho \): Wood density (g/cm³)
-- \( AGB \): Above-Ground Biomass (kg)
-- \( \text{ca} \): Canopy area (m²)
+- DBH: Diameter at Breast Height (cm)
+-  H : Tree height (m)
+- rho : Wood density (g/cm³)
+-  AGB : Above-Ground Biomass (kg)
+- ca : Canopy area (m²)
 
 ## 3. Choose the Appropriate Equation
 Select the allometric equation from the table that corresponds to the forest type and available data. Here are a few examples:
